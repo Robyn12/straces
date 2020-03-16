@@ -1,0 +1,2 @@
+# straces
+Strace for canapeCore
